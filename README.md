@@ -1,4 +1,3 @@
 # Cat-And-Dog-Classification
 
-This model is trained on a small dataset.To obtain better results train the model on the larger dataset.
-Dataset files being large are yet to be uploaded.
+Even after having a small amount of training data (1000 for each class), by the use of transfer learning an accuracy of 92.96 was attained. 
